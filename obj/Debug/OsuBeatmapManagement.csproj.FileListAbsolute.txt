@@ -1,0 +1,10 @@
+C:\Users\jen20\Desktop\Jaebin\Programing\c#\OsuBeatmapManagement\OsuBeatmapManagement\bin\Debug\OsuBeatmapManagement.exe.config
+C:\Users\jen20\Desktop\Jaebin\Programing\c#\OsuBeatmapManagement\OsuBeatmapManagement\bin\Debug\OsuBeatmapManagement.exe
+C:\Users\jen20\Desktop\Jaebin\Programing\c#\OsuBeatmapManagement\OsuBeatmapManagement\bin\Debug\OsuBeatmapManagement.pdb
+C:\Users\jen20\Desktop\Jaebin\Programing\c#\OsuBeatmapManagement\OsuBeatmapManagement\obj\Debug\OsuBeatmapManagement.csproj.AssemblyReference.cache
+C:\Users\jen20\Desktop\Jaebin\Programing\c#\OsuBeatmapManagement\OsuBeatmapManagement\obj\Debug\OsuBeatmapManagement.Form1.resources
+C:\Users\jen20\Desktop\Jaebin\Programing\c#\OsuBeatmapManagement\OsuBeatmapManagement\obj\Debug\OsuBeatmapManagement.Properties.Resources.resources
+C:\Users\jen20\Desktop\Jaebin\Programing\c#\OsuBeatmapManagement\OsuBeatmapManagement\obj\Debug\OsuBeatmapManagement.csproj.GenerateResource.cache
+C:\Users\jen20\Desktop\Jaebin\Programing\c#\OsuBeatmapManagement\OsuBeatmapManagement\obj\Debug\OsuBeatmapManagement.csproj.CoreCompileInputs.cache
+C:\Users\jen20\Desktop\Jaebin\Programing\c#\OsuBeatmapManagement\OsuBeatmapManagement\obj\Debug\OsuBeatmapManagement.exe
+C:\Users\jen20\Desktop\Jaebin\Programing\c#\OsuBeatmapManagement\OsuBeatmapManagement\obj\Debug\OsuBeatmapManagement.pdb
